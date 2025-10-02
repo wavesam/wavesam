@@ -1,3 +1,3 @@
-Hey, it's wavesam! 👋
+Hey, it's **wavesam**! 👋
 
-Check out my website: [wavesam.io](https://wavesam.io)
+Check out my website: **[wavesam.io](https://wavesam.io)**
