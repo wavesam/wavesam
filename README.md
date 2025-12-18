@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samuel Lee 🏄</h1>
-<h3 align="center">Information & AI Engineering Student @ PolyU</h3>
+<h3 align="center">Full Stack Developer • Information & AI Engineering Student @ PolyU</h3>
 
 <p align="center">
   <a href="https://wavesam.io">Portfolio</a> •
