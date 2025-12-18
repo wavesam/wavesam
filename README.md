@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Samuel Lee 👋</h1>
+<h1 align="center">Hey, I'm Samuel Lee 🏄</h1>
 <h3 align="center">Information & AI Engineering Student @ PolyU</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Projects
+### 🌊 Projects
 
 #### [Personal Portfolio](https://wavesam.io)
 Modern portfolio built with **React, TypeScript, and Tailwind CSS**. Features responsive design and clean UI.
@@ -23,7 +23,7 @@ Convolutional Neural Network that classifies handwritten images using TensorFlow
 Terminal-based AI chat client built with Node.js, featuring HTTP requests and API integration.
 `Node.js` `JavaScript` `REST APIs` `HTTP Requests`
 
-### 💻 Tech Stack
+### 🚤 Tech Stack
 
 **AI/ML**
 `Python` `TensorFlow` `OpenCV` `scikit-learn`
@@ -34,11 +34,11 @@ Terminal-based AI chat client built with Node.js, featuring HTTP requests and AP
 **Tools & Platforms**
 `Git` `Arduino` `ROS` `VEXcode`
 
-### 📫 Let's Connect
+### ⚓︎ Let's Connect
 
 - **Portfolio**: [wavesam.io](https://wavesam.io)
 - **Email**: samuel@wavesam.io
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [wavesam](https://linkedin.com/in/wavesam)
 
 ---
 
